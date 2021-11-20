@@ -5,7 +5,7 @@ tags: ['编程']
 date: 2018-01-05 09:08
 ---
 
-> 📓 本文已归档到：「[blog](https://github.com/dunwu/blog)」
+> 📦 本文已归档到：「[blog](https://github.com/dunwu/blog)」
 
 ## 前言
 
@@ -25,7 +25,7 @@ date: 2018-01-05 09:08
 
 ## 学习编程语言的步骤
 
-<div align="center"><img src="http://dunwu.test.upcdn.net/cs/programming/learn-programming-language.png"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/dunwu/images/dev/cs/programming/learn-programming-language.png"/></div>
 
 ### 基本语法
 
